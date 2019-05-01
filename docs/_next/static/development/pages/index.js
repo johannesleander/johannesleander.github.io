@@ -9793,7 +9793,7 @@ function Home() {
 
 /***/ }),
 
-/***/ 0:
+/***/ 1:
 /*!************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fjohannes%2FProjects%2Fpersonal%2Fpersonal-website%2Fpages%2Findex.js ***!
   \************************************************************************************************************************************************/
@@ -9816,5 +9816,5 @@ module.exports = dll_afa7b25a60452594c240;
 
 /***/ })
 
-},[[0,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map
